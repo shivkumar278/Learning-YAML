@@ -1,0 +1,24 @@
+Student Record:
+
+- name: shiv
+  age: 30
+  class: 10
+  roll num: 12345
+  subject: math,science,bio
+
+
+- name: arjun
+  age: 30
+  class: 10
+  roll num: 65489
+  subject: math,science,bio
+
+- name: vinay
+  age: 26
+  class: 11
+  roll num: 789451
+  subject:    
+      math
+      science
+      bio
+      chem
